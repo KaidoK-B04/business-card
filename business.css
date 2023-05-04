@@ -1,0 +1,42 @@
+.background-content {
+  background-color: rgb(242, 242, 180);
+  width: 500px;
+  border: none;
+  margin: 20px;
+  display: flex;
+  margin-bottom: 0;
+  border-bottom: 6px solid rgb(254, 203, 20);
+  border-top: 6px solid rgb(254, 203, 20);
+}
+
+.profile-picture {
+  width: 200px;
+  border: solid;
+  border-width: 5px;
+  border-color: rgb(254, 203, 20);
+  border-radius: 1px;
+  margin: 20px;
+}
+.right-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  justify-content: center;
+  background-color: rgb(250, 244, 213);
+  padding: 10px;
+  margin-left: 20px;
+  text-align: center;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.name {
+  font-weight: bold;
+  font-size: 24px;
+}
+.fag {
+  font-size: 18px;
+}
+.location {
+  font-weight: bold;
+}
